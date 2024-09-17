@@ -1,0 +1,6 @@
+[submodule "vendor/thinkphp"]
+	path = vendor/thinkphp
+	url = https://github.com/top-think/thinkphp.git
+[submodule "vendor/angular"]
+	path = vendor/angular
+	url = https://github.com/angular/angular.git
