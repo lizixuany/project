@@ -16,3 +16,6 @@
 [submodule "PHP/nginx.config"]
 	path = PHP/nginx.config
 	url = https://github.com/YZ-zhujie/thinkPhpDemo.git
+[submodule "php"]
+	path = php
+	url = https://github.com/YZ-zhujie/thinkPhpDemo.git
