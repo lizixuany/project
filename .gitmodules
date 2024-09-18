@@ -4,3 +4,15 @@
 [submodule "vendor/angular"]
 	path = vendor/angular
 	url = https://github.com/angular/angular.git
+[submodule "PHP/htdocs"]
+	path = PHP/htdocs
+	url = https://github.com/YZ-zhujie/thinkPhpDemo.git
+[submodule "PHP/web"]
+	path = PHP/web
+	url = https://github.com/YZ-zhujie/thinkPhpDemo.git
+[submodule "PHP/docker"]
+	path = PHP/docker
+	url = https://github.com/YZ-zhujie/thinkPhpDemo.git
+[submodule "PHP/nginx.config"]
+	path = PHP/nginx.config
+	url = https://github.com/YZ-zhujie/thinkPhpDemo.git
